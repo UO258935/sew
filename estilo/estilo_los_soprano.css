@@ -63,7 +63,7 @@ table {
   margin: 15px 0;
   margin-left: auto;
   margin-right: auto;
-  border-collapse: collapse;
+  border-collapse: separate;
   border-spacing: 20px;
 }
 
@@ -77,14 +77,14 @@ table th td{
   background-color: PowderBlue;
   color: black;
   border: 1px solid blue;
-  border-spacing: 10px;
+  border-spacing: 10px 5px;
 }
 
 table tr td{
   background-color: PowderBlue;
   color: black;
   border: 1px solid blue;
-  border-spacing: 10px;
+  border-spacing: 10px 5px;
 }
 
 nav ul li {
