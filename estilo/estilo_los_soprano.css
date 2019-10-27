@@ -95,6 +95,10 @@ ul {
   font-size: large;
 }
 
+ul li{
+  color: black;
+}
+
 ul li ul li {
   list-style-type: disc;
 }
