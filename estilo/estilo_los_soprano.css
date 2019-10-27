@@ -241,8 +241,20 @@ aside {
     background-color: powderblue;
 }
 
+
+/** a=0 b=0 c=2 **/
+
 section img {
     border: 1px solid blue;
     border-radius: 4px;
     padding: 5px;
+}
+
+
+/** a=0 b=0 c=2 **/
+
+section video {
+    border: 1px solid blue;
+    border-radius: 4px;
+    padding: 15px;
 }
