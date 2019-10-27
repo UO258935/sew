@@ -64,7 +64,7 @@ table {
   margin-left: auto;
   margin-right: auto;
   border-collapse: collapse;
-  border-spacing: 10px;
+  border-spacing: 20px;
 }
 
 th { 
@@ -73,9 +73,10 @@ th {
   font-weight: bond; 
 }
 
-table tr td{
+table th td{
   background-color: PowderBlue;
   color: black;
+  border: 1px solid blue;
 }
 
 nav ul li {
