@@ -90,6 +90,7 @@ li a:hover{
 
 ul {
   list-style-type: decimal;
+  font-size: large;
 }
 
 ul li ul li {
