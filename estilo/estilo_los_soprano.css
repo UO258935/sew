@@ -80,12 +80,6 @@ table th td{
   border-spacing: 10px 5px;
 }
 
-table tr td{
-  background-color: PowderBlue;
-  color: black;
-  border: 1px solid blue;
-  border-spacing: 10px 5px;
-}
 
 nav ul li {
   list-style-type: circle;
