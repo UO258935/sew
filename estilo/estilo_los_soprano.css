@@ -100,12 +100,10 @@ ul {
 }
 
 ul li{
+  list-style-type: circle;
   color: black;
 }
 
-ul li ul li {
-  list-style-type: disc;
-}
 
 p{
   margin-left: 25px;
