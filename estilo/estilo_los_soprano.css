@@ -87,7 +87,7 @@ table th td{
 }
 
 nav ul li {
-  list-style-type: circle;
+  list-style-type: disc;
 }
 
 li a:hover{
