@@ -48,7 +48,7 @@ h2,h4{
 }
 
 h2::first-letter,h4::first-letter{
-  font-size: large;
+  font-size: xx-large;
 }
 
 h3{
@@ -100,10 +100,11 @@ p{
   margin-left: 25px;
   text-indent: -15px;
   line-height: 150%;
+  font-size: x-large;
 }
 
 p::first-letter{
-  font-size: larger;
+  font-size: xx-larger;
 }
 
 aside nav {
