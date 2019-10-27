@@ -63,9 +63,13 @@ table {
 }
 
 th { 
-  background: grey;
+  background: blue;
   color: white;
   font-weight: normal; 
+}
+
+table tr td{
+  background-color: rgb(208, 253, 253);
 }
 
 nav ul li {
