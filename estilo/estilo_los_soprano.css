@@ -55,6 +55,7 @@ h3{
   padding: 20px;
   background-color: rgb(13, 102, 236);
   text-decoration: underline;
+  color: white;
 }
 
 table {
@@ -74,7 +75,7 @@ th {
 }
 
 table tr td{
-  background-color: rgb(208, 253, 253);
+  background-color: PowderBlue;
   color: black;
 }
 
@@ -105,11 +106,11 @@ p::first-letter{
 }
 
 nav {
-  background-color: rgb(208, 253, 253);
+  background-color: PowderBlue;
 }
 
 footer{
-  background-color: rgb(208, 253, 253);
+  background-color: PowderBlue;
   text-align: center;
 }
 
