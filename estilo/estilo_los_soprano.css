@@ -1,3 +1,4 @@
+/** a=0 b=0 c=1 **/
 body {
   font: 400 15px Tahoma, sans-serif;
   line-height: 1.8;
@@ -10,12 +11,19 @@ body {
   grid-column-gap:20px;
   background-color: white;
 }
-
+/** a=0 b=0 c=1 **/
 header{grid-area: header;}
+
+/** a=0 b=0 c=1 **/
 aside{grid-area: aside;}
+
+/** a=0 b=0 c=1 **/
 footer{grid-area: footer;}
+
+/** a=0 b=0 c=1 **/
 main{grid-area: main;}
 
+/** a=0 b=0 c=1 **/
 h1{
   background-color:blue;
   color: #fff;
@@ -29,6 +37,7 @@ h1{
   letter-spacing: 5px;
 }
 
+/** a=0 b=0 c=1 **/
 h2, h3, h4, h5, h6{
   font-family: Arial;
   font-weight: 900;
@@ -38,6 +47,7 @@ h2, h3, h4, h5, h6{
   text-align: center;
 }
 
+/** a=0 b=0 c=1 **/
 h2,h4{
   font-style: italic;
   font-weight: 600;
@@ -46,20 +56,24 @@ h2,h4{
   color: white ;
 }
 
+/** a=0 b=0 c=2 **/
 h2::first-letter,h4::first-letter{
   font-size: xx-large;
 }
 
+/** a=0 b=0 c=1 **/
 h3{
   background-color: blue;
   text-decoration: underline;
   color: white;
 }
 
+/** a=0 b=0 c=4 **/
 h5{
   background-color: powderblue;
 }
 
+/** a=0 b=0 c=1 **/
 table {
   border: 1px solid blue; 
 	border-collapse: collapse;
@@ -71,12 +85,14 @@ table {
   background-color: white;
 }
 
+/** a=0 b=0 c=1 **/
 th { 
   background-color: blue;
   color: white;
   font-size: large;
 }
 
+/** a=0 b=0 c=3 **/
 table th td{
   background-color: white;
   color: black;
@@ -86,25 +102,29 @@ table th td{
   
 }
 
+/** a=0 b=0 c=3 **/
 nav ul li {
   list-style-type: disc;
 }
 
+/** a=0 b=1 c=2 **/
 li a:hover{
   cursor: pointer;
 }
 
+/** a=0 b=0 c=1 **/
 ul {
   list-style-type: decimal;
   font-size: large;
 }
 
+/** a=0 b=0 c=2 **/
 ul li{
   list-style-type: circle;
   color: black;
 }
 
-
+/** a=0 b=0 c=1 **/
 p{
   margin-left: 25px;
   text-indent: -15px;
@@ -112,36 +132,44 @@ p{
   font-size: large;
 }
 
+/** a=0 b=0 c=2 **/
 p::first-letter{
   font-size: larger;
 }
 
+/** a=0 b=0 c=2 **/
 aside nav {
   background-color: PowderBlue;
 }
 
+/** a=0 b=0 c=1 **/
 footer{
   background-color: PowderBlue;
   text-align: center;
 }
 
+/** a=0 b=0 c=1 **/
 main{
   margin: 20px;
 }
 
+/** a=0 b=1 c=1 **/
 a:link {
   color: blue;
 }
 
+/** a=0 b=1 c=1 **/
 a:visited {
   color: blueviolet;
 }
 
+/** a=0 b=1 c=1 **/
 a:hover {
   background-color: blue;
   color: white;
 }
 
+/** a=0 b=0 c=1 **/
 aside{
   background-color: powderblue;
 }
