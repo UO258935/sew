@@ -70,7 +70,6 @@ table {
 th { 
   background-color: blue;
   color: black;
-  font-weight: bond; 
   font-size: large;
 }
 
@@ -107,7 +106,7 @@ p{
 }
 
 p::first-letter{
-  font-size: xx-larger;
+  font-size: larger;
 }
 
 aside nav {
