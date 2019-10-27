@@ -8,7 +8,7 @@ body {
   grid-template-areas: "header header" "aside main" "footer footer";
   grid-row-gap:20px;
   grid-column-gap:20px;
-  background-color: rgb(240, 240, 240);
+  background-color: white;
 }
 
 header{grid-area: header;}
