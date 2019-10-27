@@ -73,7 +73,7 @@ th {
   font-weight: bond; 
 }
 
-table th td{
+table tr td{
   background-color: PowderBlue;
   color: black;
   border: 1px solid blue;
