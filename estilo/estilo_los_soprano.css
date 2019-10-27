@@ -72,6 +72,10 @@ table tr td{
   background-color: rgb(208, 253, 253);
 }
 
+table tr td::first-letter{
+  background-color: blue;
+}
+
 nav ul li {
   list-style-type: circle;
 }
