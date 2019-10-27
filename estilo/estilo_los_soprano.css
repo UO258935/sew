@@ -77,12 +77,14 @@ table th td{
   background-color: PowderBlue;
   color: black;
   border: 1px solid blue;
+  border-spacing: 10px;
 }
 
 table tr td{
   background-color: PowderBlue;
   color: black;
   border: 1px solid blue;
+  border-spacing: 10px;
 }
 
 nav ul li {
