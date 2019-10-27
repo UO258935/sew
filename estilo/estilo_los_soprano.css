@@ -240,21 +240,3 @@ a:hover {
 aside {
     background-color: powderblue;
 }
-
-
-/** a=0 b=0 c=2 **/
-
-section img {
-    display: block;
-    margin: 0 auto;
-}
-
-
-/** a=0 b=0 c=1 **/
-
-video {
-    width: 500px;
-    height: 300px;
-    display: block;
-    margin: 0 auto;
-}
