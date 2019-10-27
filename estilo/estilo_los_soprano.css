@@ -128,3 +128,8 @@ a:hover {
   background-color: blue;
   color: white;
 }
+
+aside{
+  border-style: solid;
+  border-width: medium;
+}
