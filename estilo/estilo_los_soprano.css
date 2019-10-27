@@ -72,7 +72,7 @@ table tr td{
   background-color: rgb(208, 253, 253);
 }
 
-table tr td::first-letter{
+table tr td::first-line{
   background-color: blue;
 }
 
