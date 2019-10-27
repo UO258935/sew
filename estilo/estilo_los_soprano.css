@@ -64,16 +64,13 @@ table {
 
 th { 
   background: blue;
-  color: white;
-  font-weight: normal; 
+  color: black;
+  font-weight: bond; 
 }
 
 table tr td{
   background-color: rgb(208, 253, 253);
-}
-
-table tr td::first-line{
-  background-color: blue;
+  color: black;
 }
 
 nav ul li {
