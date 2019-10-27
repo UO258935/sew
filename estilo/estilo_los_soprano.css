@@ -9,6 +9,7 @@ body {
   text-align:justify;
   grid-row-gap:20px;
   grid-column-gap:20px;
+  background-color: rgb(229, 250, 253);
 }
 
 header{grid-area: header;}
