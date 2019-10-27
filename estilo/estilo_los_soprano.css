@@ -18,7 +18,7 @@ footer{grid-area: footer;}
 main{grid-area: main;}
 
 h1{
-  background-color:blue; 
+  background-color:blue;
   color: #fff;
   text-transform: uppercase;
   border: PowderBlue 10px double;
@@ -79,7 +79,6 @@ table th td{
   border: 1px solid blue;
   border-spacing: 10px 5px;
 }
-
 
 nav ul li {
   list-style-type: circle;
