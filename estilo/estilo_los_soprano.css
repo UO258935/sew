@@ -78,6 +78,7 @@ table th td{
   color: black;
   border: 1px solid blue;
   border-spacing: 10px 5px;
+  font-size: large;
 }
 
 nav ul li {
