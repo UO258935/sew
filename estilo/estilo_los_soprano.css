@@ -17,7 +17,7 @@ footer{grid-area: footer;}
 main{grid-area: main;}
 
 h1{
-  background-color:rgb(13, 102, 236); 
+  background-color:blue; 
   color: #fff;
   text-transform: uppercase;
   border: PowderBlue 10px double;
@@ -32,7 +32,6 @@ h1{
 h2, h3, h4, h5, h6{
   font-family: Arial;
   font-weight: 900;
-  color: black;
   font-size: medium;
   padding: 10px 80px;
   margin:40px;
@@ -43,17 +42,16 @@ h2,h4{
   font-style: italic;
   font-weight: 600;
   text-align: center;
-  background-color: rgb(13, 102, 236);
+  background-color: blue;
   color: white ;
 }
 
 h2::first-letter,h4::first-letter{
-  font-size: x-large;
+  font-size: large;
 }
 
 h3{
-  padding: 20px;
-  background-color: rgb(13, 102, 236);
+  background-color: blue;
   text-decoration: underline;
   color: white;
 }
