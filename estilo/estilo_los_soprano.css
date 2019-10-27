@@ -132,4 +132,5 @@ a:hover {
 aside{
   border-style: solid;
   border-width: medium;
+  border-color: pink;
 }
