@@ -1,0 +1,37 @@
+#div2,
+#div1 {
+    width: 350px;
+    height: 70px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+}
+
+canvas {
+    background-color: lightblue;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    padding-left: 500px;
+}
+
+h2 {
+    text-align: left;
+}
+
+footer {
+    margin: 20px;
+}

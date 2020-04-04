@@ -1,0 +1,209 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Folder>
+         <name>Ruta por Gijón</name>
+         <description>Ruta por algunos de los lugares más icónicos de Gijón</description>
+         <Placemark>
+            <name/>
+            <Point>
+               <coordinates>-5.66193,43.5453,7</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>La Escalerona</name>
+            <description/>
+            <Point>
+               <coordinates>-5.659166666666667,43.5419444,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Parque de Isabel la Católica</name>
+            <description/>
+            <Point>
+               <coordinates>-5.642256,43.537389,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Estadio Municipal El Molinón-Enrique Castro "Quini"</name>
+            <description/>
+            <Point>
+               <coordinates>-5.636944444444444,43.5358333,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ruta por Gijón</name>
+            <LineString>
+               <coordinates>-5.66193,43.5453,7	-5.659166666666667,43.5419444,3	-5.642256,43.537389,3	-5.636944444444444,43.5358333,3	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Ruta por Oviedo</name>
+         <description>Ruta por los monumentos de la ciudad de Oviedo</description>
+         <Placemark>
+            <name/>
+            <Point>
+               <coordinates>-5.85027777778,43.3616666667,231</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Campo San Fransico</name>
+            <description/>
+            <Point>
+               <coordinates>-5.85027777778,43.3616666667,231</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Teatro Campoamor</name>
+            <description/>
+            <Point>
+               <coordinates>-5.84777777778,43.3630555556,231</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Monte Naranco</name>
+            <description/>
+            <Point>
+               <coordinates>-5.86666666667,43.3833333333,634</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ruta por Oviedo</name>
+            <LineString>
+               <coordinates>-5.85027777778,43.3616666667,231	-5.85027777778,43.3616666667,231	-5.84777777778,43.3630555556,231	-5.86666666667,43.3833333333,634	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Ruta por las playas de Gijón</name>
+         <description>Ruta por algunos de las playas más bonitas de Gijón</description>
+         <Placemark>
+            <name/>
+            <Point>
+               <coordinates>-5.618995,43.553942,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Mirador de La Providencia</name>
+            <description/>
+            <Point>
+               <coordinates>-5.618995,43.553942,3</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Playa La Ñora</name>
+            <description/>
+            <Point>
+               <coordinates>-5.590769,43.547734,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Playa De Estaño</name>
+            <description/>
+            <Point>
+               <coordinates>-5.59861111111,43.547181,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ruta por las playas de Gijón</name>
+            <LineString>
+               <coordinates>-5.618995,43.553942,3	-5.618995,43.553942,3	-5.590769,43.547734,0	-5.59861111111,43.547181,0	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Ruta por pueblos de la costa asturiana.</name>
+         <description>Ruta por algunos de los pueblos asturianos más bonitos, situados en la costa.</description>
+         <Placemark>
+            <name/>
+            <Point>
+               <coordinates>-5.767104,43.590819,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Candas</name>
+            <description/>
+            <Point>
+               <coordinates>-5.761752,43.590465,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Luanco</name>
+            <description/>
+            <Point>
+               <coordinates>-5.789012,43.615462,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Cudillero</name>
+            <description/>
+            <Point>
+               <coordinates>-6.148063,43.567528,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Ruta por pueblos de la costa asturiana.</name>
+            <LineString>
+               <coordinates>-5.767104,43.590819,0	-5.761752,43.590465,0	-5.789012,43.615462,0	-6.148063,43.567528,0	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Pueblos del centro asturiano.</name>
+         <description>Ruta por algunos de los pueblos asturianos más bonitos, situados en el centro de la provincia.</description>
+         <Placemark>
+            <name/>
+            <Point>
+               <coordinates>-5.131971,43.350669,87</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Cangas de Onís</name>
+            <description/>
+            <Point>
+               <coordinates>-5.066583,43.314462,87</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Taramundi</name>
+            <description/>
+            <Point>
+               <coordinates>-7.10807,43.360394,1033</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Pola de Somiedo</name>
+            <description/>
+            <Point>
+               <coordinates>-6.256301,43.094201,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Pueblos del centro asturiano.</name>
+            <LineString>
+               <coordinates>-5.131971,43.350669,87	-5.066583,43.314462,87	-7.10807,43.360394,1033	-6.256301,43.094201,0	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+   </Document>
+</kml>

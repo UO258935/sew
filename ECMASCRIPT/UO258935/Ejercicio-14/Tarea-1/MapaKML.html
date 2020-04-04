@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio 14 - 1</title>
+    <meta name="description" content="Procesamiento archivos XML para rutas turisticas">
+    <meta name="author" content="Marcos Matilla">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="MapaKML.css" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtF0HSYfDaXjyc_GcuBioFAfXEa3Gpaj4&v=3.exp"></script>
+    <script src="geoxml3.js"></script>
+    <script src="ProjectedOverlay.js"></script>
+    <script src="MapaKML.js"></script>
+</head>
+
+<body>
+    <main>
+        <h1>Servicio geolocalización KML</h1>
+        <input id="subirArchivos" type="file" name="Archivos" onchange="mapaKml.procesarKml(this.files)">
+        <section id="mapa">
+            <h2>Mapa dinámico</h2>
+            <p id="map"></p>
+        </section>
+        <footer>
+            <a href="https://validator.w3.org/check?uri=referer">
+                <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt=" HTML5 Válido!" height="64" width="63" /></a>
+            <a href=" http://jigsaw.w3.org/css-validator/check/referer ">
+                <img src=" http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" height="31" width="88" /></a>
+        </footer>
+    </main>
+</body>
+
+
+</html>

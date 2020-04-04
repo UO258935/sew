@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": -5.68,
+    "lat": 43.53
+  },
+  "weather": [
+    {
+      "id": 300,
+      "main": "Drizzle",
+      "description": "llovizna ligera",
+      "icon": "09d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 12.96,
+    "pressure": 1024,
+    "humidity": 100,
+    "temp_min": 12,
+    "temp_max": 13.89
+  },
+  "visibility": 1800,
+  "wind": {
+    "speed": 5.7,
+    "deg": 290
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1575813132,
+  "sys": {
+    "type": 1,
+    "id": 6388,
+    "country": "ES",
+    "sunrise": 1575790969,
+    "sunset": 1575823584
+  },
+  "timezone": 3600,
+  "id": 6359929,
+  "name": "Gijón",
+  "cod": 200
+}

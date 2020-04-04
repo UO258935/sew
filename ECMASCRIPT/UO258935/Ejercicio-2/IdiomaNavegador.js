@@ -1,0 +1,1 @@
+document.write("<h2>" + ObjInfoNavegador.idioma_navegador + "</h2>");

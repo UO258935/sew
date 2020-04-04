@@ -1,0 +1,7 @@
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\obj\Debug\AppXML.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\obj\Debug\AppXML.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

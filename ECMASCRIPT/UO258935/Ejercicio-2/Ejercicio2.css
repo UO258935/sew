@@ -1,0 +1,23 @@
+/*Todos de especificidad: 0*/
+
+p {
+    text-align: center;
+    color: green;
+}
+
+h1 {
+    color: royalblue;
+    font-size: 5em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3.5em;
+    color: salmon;
+    text-align: center;
+}
+
+* {
+    margin: 0.5em;
+    background-color: blanchedalmond;
+}

@@ -1,0 +1,74 @@
+table {
+    text-align: center;
+}
+
+table tr td {
+    text-align: center;
+}
+
+section table {
+    padding-left: 500px;
+    text-align: center;
+    margin: 10px;
+}
+
+body {
+    background-color: rgb(204, 228, 255);
+}
+
+p {
+    margin: 10px;
+    text-align: center;
+}
+
+h1 {
+    background-color: chocolate;
+    color: #000000;
+    text-transform: uppercase;
+    padding: 100px 25px;
+    text-align: center;
+    font-size: 300%;
+    letter-spacing: 5px;
+}
+
+h2 {
+    background-color: chocolate;
+    text-align: center;
+    font-size: 200%;
+}
+
+h3,
+h4 {
+    background-color: chocolate;
+    font-family: Arial;
+    font-weight: 900;
+    font-size: medium;
+    padding: 10px 80px;
+    margin: 40px;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+input[type=text] {
+    width: 10%;
+    padding: 6px 8px;
+    font-size: 12px;
+    margin: 8px 0;
+    text-align: left;
+    color: #333;
+    background: #FFFAFA;
+}
+
+input[type=button]:hover,
+input[type=submit]:hover,
+input[type=reset]:hover {
+    background-color: grey;
+}
+
+input[type=button] {
+    margin: 30px;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="2.0">
+
+<polyline points=
+            "10,160 
+             30,132
+             40,132 
+             80,132 
+             100,132 
+             120,131
+             140,130
+             160,130
+             180,130
+			 200,34
+			 220,130
+			 240,160
+             10,160" 
+            style="fill:white;stroke:red;stroke-width:4" />
+
+<text x="40" y="165" style="writing-mode: tb; glyph-orientation-vertical: 0;">
+    Campo San Fransico
+</text>
+<text x="120" y="165" style="writing-mode: tb; glyph-orientation-vertical: 0;">
+    Teatro Campoamor
+</text>
+<text x="200" y="165" style="writing-mode: tb; glyph-orientation-vertical: 0;">
+	Monte Naranco
+</text>
+
+</svg> 

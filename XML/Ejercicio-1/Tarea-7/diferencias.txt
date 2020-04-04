@@ -1,0 +1,7 @@
+Pongo minOccurs en ruta y lo pongo a 5, que es el número minimo de rutas que se puede tener.
+Pongo minOccurs para las referencias, a 3 ya que es el minimo que podemos tener.
+Pongo minOccurs para los hitos, a 3 ya que es el minimo que podemos tener.
+Pongo minOccurs para las fotografías a 1, que es el minimo y cambio el maxOccurs a 5, que es el máximo.
+Cambié el tipo del elemento duración a duration.
+Cambié el tipo del elemento hora_inicio a time.
+Cambié el tipo del atributo número del elemento hito de string a integer

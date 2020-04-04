@@ -1,0 +1,46 @@
+input[type=text] {
+    width: 10%;
+    padding: 6px 8px;
+    font-size: 12px;
+    margin: 8px 0;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: left;
+    color: #333;
+    background: #FFFAFA;
+}
+
+input[type=text],
+input[id=input] {
+    width: 500px;
+}
+
+input[type=button]:hover,
+input[type=submit]:hover,
+input[type=reset]:hover {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    text-overflow: ellipsis;
+    text-decoration-color: blue;
+    padding: 3px 10px;
+    border: blue 5px solid;
+    color: blue;
+    border-radius: 20px;
+}
+
+body {
+    background-color: rgb(204, 228, 255);
+}
+
+main {
+    background-color: rgb(150, 200, 255);
+}
+
+section {
+    text-align: center;
+}

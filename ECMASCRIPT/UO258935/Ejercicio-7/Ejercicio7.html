@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Marcos Matilla" />
+    <meta name="description" content="Ejercicio 7" />
+    <title>Ejercicio 7</title>
+    <link rel="stylesheet" href="Ejercicio7.css" />
+    <script src="http://code.jquery.com/jquery3.3.1.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="Ejercicio7.js"></script>
+
+</head>
+
+<body>
+    <main>
+        <header>
+            <h1>Los Simpson</h1>
+            <p id="modificable">Es una serie estadounidense de comedia, en formato de animación, creada por Matt Groening para Fox Broadcasting Company y emitida en varios países del mundo. La serie es una sátira de la sociedad estadounidense que narra la vida y el día a
+                día de una familia de clase media de ese país que vive en un pueblo ficticio llamado Springfield.</p>
+
+            <input type="button" value="Modificar texto inglés" onclick="ejercicio.modificarIngles()" />
+            <input type="button" value="Modificar texto castellano" onclick="ejercicio.modificarCastellano()" />
+
+            <h2>Personajes</h2>
+            <h3>Homer</h3>
+            <p>Es el padre de la familia protagonista y uno de los personajes centrales y más importantes de la serie.</p>
+            <h3>Marge</h3>
+            <p>Es la esposa de Homer Simpson y madre de los tres hijos que ha tenido de este matrimonio: Bart, Lisa y Maggie. Su presencia ha demostrado ser fundamental para mantener la familia unida.</p>
+            <h3>Bart</h3>
+            <p>Bart tiene diez años y es el primogénito y único hijo varón de Homer y Marge Simpson. Es el hermano mayor de Lisa y Maggie.</p>
+            <h3>Lisa</h3>
+            <p>Es la hija mediana de Homer y Marge Simpson, y hermana de Bart y Maggie.</p>
+            <h3>Maggie</h3>
+            <p>Es la tercera hija del matrimonio protagonista, Homer y Marge Simpson, y la más joven de ellos.</p>
+            <h4>Otros personajes</h4>
+            <p id="añadir"></p>
+        </header>
+        <section>
+            <h2>Temporadas</h2>
+            <table>
+                <tr>
+                    <th>Season</th>
+                    <th>Nº of episodes</th>
+                    <th>Season premiere </th>
+                    <th>Season finale</th>
+                </tr>
+                <tr>
+                    <td>2017–18</td>
+                    <td>21</td>
+                    <td>October 1, 2017</td>
+                    <td>May 20, 2018</td>
+                </tr>
+                <tr>
+                    <td>2018–19</td>
+                    <td>23</td>
+                    <td>September 30, 2018 </td>
+                    <td>May 12, 2019</td>
+                </tr>
+                <tr>
+                    <td>2019–20</td>
+                    <td>TBA</td>
+                    <td>September 29, 2019</td>
+                    <td>TBA</td>
+                </tr>
+            </table>
+        </section>
+
+        <input type="button" id="ocultar" value="Ocultar texto" onclick="ejercicio.ocultarTexto()" />
+        <input type="button" id="mostrar" value="Mostrar texto" onclick="ejercicio.mostrarTexto()" />
+        <input type="button" id="añadirPersonaje" value="Añadir personaje" onclick="ejercicio.añadirPersonaje()" />
+        <input type="button" id="eliminarPersonaje" value="Eliminar personaje" onclick="ejercicio.eliminarPersonaje()" />
+        <input type="button" id="recorrerElementos" value="Recorrer elementos" onclick="ejercicio.recorrer()" />
+        <input type="button" id="suma" value="Contar filas y columnas" onclick="ejercicio.sumar()" />
+
+
+
+
+
+    </main>
+    <footer>
+        <a href="https://validator.w3.org/check?uri=referer">
+            <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt=" HTML5 Válido!" height="64" width="63" /></a>
+        <a href=" http://jigsaw.w3.org/css-validator/check/referer ">
+            <img src=" http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" height="31" width="88" /></a>
+    </footer>
+</body>
+
+</html>

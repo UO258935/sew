@@ -1,0 +1,38 @@
+p [type=button] {
+    width: 100px;
+    height: 50px;
+    font-size: 22px;
+    background-color: peru;
+}
+
+input[type=button]:hover,
+input[type=submit]:hover,
+input[type=reset]:hover {
+    background-color: #333;
+}
+
+p [type=text] {
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+}
+
+h1 {
+    color: black;
+    padding: 3px 10px;
+    text-align: center;
+    border: black 5px solid;
+    border-radius: 20px;
+}
+
+main {
+    border: double;
+    text-align: center;
+    background-color: palegoldenrod;
+    margin: 0px 500px;
+    width: 500px;
+}
+
+body {
+    background-color: darkgoldenrod;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Marcos Matilla" />
+    <meta name="description" content="Contador de texto" />
+    <Title>Ejercicio 6</Title>
+    <link rel="stylesheet" href="Ejercicio6.css" />
+    <script src="Ejercicio6.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Contador </h1>
+    </header>
+
+    <main>
+        <section class="texto">
+            <h2>de caracteres y de palabras.</h2>
+            <input type="text" id="texto" class="input">
+
+            <p>
+                <input type="button" id="BorrarTexto" value="Borrar texto" onclick="document.getElementById('texto').value=ejercicio6.borrar()" />
+            </p>
+            <p>
+                <input type="text" id="resultadoCaracteres" disabled />
+                <input type="button" id="CalcularCaracteres" value="Calcular caracteres" onclick="document.getElementById('resultadoCaracteres').value=ejercicio6.contarCaracteres(document.getElementById('texto').value)" />
+                <input type="button" id="BorrarCaracteres" value="Borrar caracteres" onclick="document.getElementById('resultadoCaracteres').value=ejercicio6.borrarPalabrasCaracteres()" />
+            </p>
+            <p>
+                <input type="text" id="resultadoPalabras" disabled />
+                <input type="button" id="CalcularPalabras" value="Calcular palabras" onclick="document.getElementById('resultadoPalabras').value=ejercicio6.contarPalabras(document.getElementById('texto').value)" />
+                <input type="button" id="BorrarPalabras" value="Borrar palabras" onclick="document.getElementById('resultadoPalabras').value=ejercicio6.borrarPalabrasCaracteres()" />
+            </p>
+        </section>
+    </main>
+    <footer>
+        <a href="https://validator.w3.org/check?uri=referer">
+            <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt=" HTML5 Válido!" height="64" width="63" /></a>
+        <a href=" http://jigsaw.w3.org/css-validator/check/referer ">
+            <img src=" http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" height="31" width="88" /></a>
+    </footer>
+</body>
+
+</html>

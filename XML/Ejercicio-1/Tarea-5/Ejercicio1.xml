@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rutas>
+    <ruta nombre = "Ruta por Gijón">
+        <tipo_ruta>Paisajística</tipo_ruta>
+        <medio_transporte>Caminando</medio_transporte>
+        <fecha_inicio>01/11/2019</fecha_inicio>
+        <hora_inicio>12:00:00</hora_inicio>
+        <tiempo_duracion>PT3H</tiempo_duracion>
+        <agencia_gestion>Sin agencia</agencia_gestion>
+        <descripcion>Ruta por algunos de los lugares más icónicos de Gijón</descripcion>
+        <personas_adecuadas>Todo tipo</personas_adecuadas>
+        <lugar_inicio_ruta>Gijón</lugar_inicio_ruta>
+        <direccion_inicio>Plaza del ayuntamiento</direccion_inicio>
+        <coordenadas_inicio>
+            <latitud>43.5453</latitud>
+            <longitud>-5.66193</longitud>
+            <altitud medida="metros">7</altitud>
+        </coordenadas_inicio>
+        <referencias>
+            <referencia url="https://es.wikipedia.org/wiki/Gij%C3%B3n"></referencia>
+            <referencia url="https://es.wikipedia.org/wiki/Playa_de_San_Lorenzo"></referencia>
+            <referencia url="https://es.wikipedia.org/wiki/Parque_de_Isabel_la_Cat%C3%B3lica"></referencia>
+        </referencias>
+        <recomendacion_ruta>10</recomendacion_ruta>
+        <hitos>
+            <hito numero = "1">
+                <nombre>La Escalerona</nombre>
+                <descripcion>Pilar cubista con termómetro y barómetro, mirador y escalinata que da a playa urbana.</descripcion>
+                <coordenadas>
+                    <latitud>43.5419444</latitud>
+                    <longitud>-5.659166666666667</longitud>
+                    <altitud medida="metros">3</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">450</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="http://i1.wp.com/gijondelalma.com/wp-content/uploads/2016/05/Escalerona_gijon1.jpg?fit=1067%2C800"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="2">
+                <nombre>Parque de Isabel la Católica</nombre>
+                <descripcion>El parque de Isabel la Católica es un parque urbano que se encuentra en Gijón.</descripcion>
+                <coordenadas>
+                    <latitud>40.5375</latitud>
+                    <longitud>-5.642222222222221</longitud>
+                    <altitud medida="metros">3</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">1900</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="http://www.carmenmoriyon.es/wp-content/uploads/2018/11/ParqueIsabel_gijon3.jpg"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="3">
+                <nombre>Estadio Municipal El Molinón-Enrique Castro "Quini"</nombre>
+                <descripcion>Es un recinto deportivo de titularidad municipal situado en la ciudad de Gijón.</descripcion>
+                <coordenadas>
+                    <latitud>43.5358333</latitud>
+                    <longitud>-5.636944444444444</longitud>
+                    <altitud medida="metros">3</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">290</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://cdnb.20m.es/quefuede/files/2014/05/Interior_de_El_Molin%C3%B3n.jpg"></fotografia>
+                    <fotografia url="https://cdnb.20m.es/quefuede/files/2014/05/Grada_norte_de_El_Molin%C3%B3n.jpg"></fotografia>
+                </fotografias>
+            </hito>
+        </hitos>
+    </ruta>
+
+    <ruta nombre = "Ruta por Oviedo">
+        <tipo_ruta>Arquitectura y monumentos</tipo_ruta>
+        <medio_transporte>Mixto a pie y coche</medio_transporte>
+        <fecha_inicio>03/11/2019</fecha_inicio>
+        <hora_inicio>10:30:00</hora_inicio>
+        <tiempo_duracion>PT5H</tiempo_duracion>
+        <agencia_gestion>Sin agencia</agencia_gestion>
+        <descripcion>Ruta por los monumentos de la ciudad de Oviedo</descripcion>
+        <personas_adecuadas>Todo tipo</personas_adecuadas>
+        <lugar_inicio_ruta>Oviedo</lugar_inicio_ruta>
+        <direccion_inicio>Parque San Francisco</direccion_inicio>
+        <coordenadas_inicio>
+            <latitud>43.3616666667</latitud>
+            <longitud>-5.85027777778</longitud>
+            <altitud medida="metros">231</altitud>
+        </coordenadas_inicio>
+        <referencias>
+            <referencia url="https://es.wikipedia.org/wiki/Oviedo"></referencia>
+            <referencia url="https://es.wikipedia.org/wiki/Campo_de_San_Francisco_(Oviedo)"></referencia>
+            <referencia url="https://ocio.lne.es/agenda/ocio-asturias/teatros/oviedo/lug-30-teatro-campoamor.html"></referencia>
+            <referencia url="https://www.desdeasturias.com/el-monte-naranco/"></referencia>
+        </referencias>
+        <recomendacion_ruta>7</recomendacion_ruta>
+        <hitos>
+            <hito numero = "1">
+                <nombre>Campo San Fransico</nombre>
+                <descripcion>El Campo de San Francisco es un parque urbano situado en el centro de la ciudad Oviedo (España).
+                     Es uno de los lugares más emblemáticos de la ciudad1​2​ y uno de los mayores parques urbanos de Asturias.</descripcion>
+                <coordenadas>
+                    <latitud>43.3616666667</latitud>
+                    <longitud>-5.85027777778</longitud>
+                    <altitud medida="metros">231</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">0</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://es.wikipedia.org/wiki/Campo_de_San_Francisco_(Oviedo)#/media/Archivo:PARQUE_SAN_FRANCISCO_PAVO_REAL2.JPG"></fotografia>
+                    <fotografia url="https://es.wikipedia.org/wiki/Campo_de_San_Francisco_(Oviedo)#/media/Archivo:PARQUE_SAN_FRANCISCO_FUENTE.JPG"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="2">
+                <nombre>Teatro Campoamor</nombre>
+                <descripcion>El teatro Campoamor es el teatro de ópera de Oviedo, 
+                            fundado en 1892 y conocido entre otras cosas por ser el escenario de la entrega de los Premios Princesa de Asturias.</descripcion>
+                <coordenadas>
+                    <latitud>43.3630555556</latitud>
+                    <longitud>-5.84777777778</longitud>
+                    <altitud medida="metros">231</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">260</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="http://www.ayrehoteles.com/blog/wp-content/uploads/2017/07/visita-guiada-teatro-campoamor.jpg"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="3">
+                <nombre>Monte Naranco</nombre>
+                <descripcion>El monte Naranco es una sierra en cuya falda meridional se encuentra la ciudad de Oviedo (Asturias, España), 
+                            precisamente el barrio que toma su nombre, barrio de Ciudad Naranco.</descripcion>
+                <coordenadas>
+                    <latitud>43.3833333333</latitud>
+                    <longitud>-5.86666666667</longitud>
+                    <altitud medida="metros">634</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">4700</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://i2.wp.com/www.lascaldasgo.com/wp-content/uploads/2017/08/monte-4.jpg?fit=349%2C196ssl=1"></fotografia>
+                   
+                </fotografias>
+            </hito>
+        </hitos>
+    </ruta>
+
+    <ruta nombre = "Ruta por las playas de Gijón">
+        <tipo_ruta>Paisajística</tipo_ruta>
+        <medio_transporte>Mixto a pie y coche</medio_transporte>
+        <fecha_inicio>10/11/2019</fecha_inicio>
+        <hora_inicio>12:00:00</hora_inicio>
+        <tiempo_duracion>PT3H</tiempo_duracion>
+        <agencia_gestion>NaturAller</agencia_gestion>
+        <descripcion>Ruta por algunos de las playas más bonitas de Gijón</descripcion>
+        <personas_adecuadas>Personas en buena forma física</personas_adecuadas>
+        <lugar_inicio_ruta>Gijón</lugar_inicio_ruta>
+        <direccion_inicio>Mirador de La Providencia</direccion_inicio>
+        <coordenadas_inicio>
+            <latitud>43.553942</latitud>
+            <longitud>-5.618995</longitud>
+            <altitud medida="metros">3</altitud>
+        </coordenadas_inicio>
+        <referencias>
+            <referencia url="https://es.wikipedia.org/wiki/Gij%C3%B3n"></referencia>
+            <referencia url="https://www.20minutos.es/noticia/403609/0/rincon/gijon/providencia/"></referencia>
+            <referencia url="https://www.turismoasturias.es/descubre/naturaleza/rutas/sendas-costeras/la-nora-gijon"></referencia>
+            <referencia url="https://www.turismoasturias.es/descubre/costa/playas/playa-de-estano"></referencia>
+        </referencias>
+        <recomendacion_ruta>10</recomendacion_ruta>
+        <hitos>
+            <hito numero = "1">
+                <nombre>Mirador de La Providencia</nombre>
+                <descripcion>El mirador de La Providencia permite contemplar la ciudad en todo su esplendor y una buena porción de la costa cantábrica.</descripcion>
+                <coordenadas>
+                    <latitud>43.553942</latitud>
+                    <longitud>-5.618995</longitud>
+                    <altitud medida="metros">3</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">0</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://www.flickr.com/photos/soniapimentel/37363933215/"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="2">
+                <nombre>Playa La Ñora</nombre>
+                <descripcion>La playa de la Ñora es una playa situada en la parroquia de Quintueles, en el concejo asturiano de Villaviciosa (España). </descripcion>
+                <coordenadas>
+                    <latitud>43.547734</latitud>
+                    <longitud>-5.590769</longitud>
+                    <altitud medida="metros">0</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">7700</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://es.wikipedia.org/wiki/Playa_de_la_%C3%91ora#/media/Archivo:Playa_La_%C3%91ora_2017.jpg"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="3">
+                <nombre>Playa De Estaño</nombre>
+                <descripcion>La playa de Estaño, se sitúa en el concejo de Gijón, Asturias, España.1​ Forma parte de la Costa Central asturiana, 
+                                siendo de las pocas del concejo de Gijón que presenta protección medioambiental por ser LIC​</descripcion>
+                <coordenadas>
+                    <latitud>43.547181</latitud>
+                    <longitud>-5.59861111111</longitud>
+                    <altitud medida="metros">0</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">83</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://es.wikipedia.org/wiki/Playa_de_la_%C3%91ora#/media/Archivo:Playa_La_%C3%91ora_2017.jpg"></fotografia>
+                </fotografias>
+            </hito>
+        </hitos>
+    </ruta>
+
+    <ruta nombre = "Ruta por pueblos de la costa asturiana.">
+        <tipo_ruta>Paisajística</tipo_ruta>
+        <medio_transporte>Mixto a pie y coche</medio_transporte>
+        <fecha_inicio>15/11/2019</fecha_inicio>
+        <hora_inicio>15:30:00</hora_inicio>
+        <tiempo_duracion>PT7H</tiempo_duracion>
+        <agencia_gestion>Sin agencia</agencia_gestion>
+        <descripcion>Ruta por algunos de los pueblos asturianos más bonitos, situados en la costa.</descripcion>
+        <personas_adecuadas>Personas en buena forma física</personas_adecuadas>
+        <lugar_inicio_ruta>Candas</lugar_inicio_ruta>
+        <direccion_inicio>Iglesia de San Félix</direccion_inicio>
+        <coordenadas_inicio>
+            <latitud>43.590819</latitud>
+            <longitud>-5.767104</longitud>
+            <altitud medida="metros">0</altitud>
+        </coordenadas_inicio>
+        <referencias>
+            <referencia url="https://www.ayto-carreno.es/elementos-de-interes/-/asset_publisher/6a0ba5aba397/content/iglesia-de-san-felix?inheritRedirect=false"></referencia>
+            <referencia url="https://www.turismoasturias.es/descubre/costa/villas-marineras/marinera-candas"></referencia>
+            <referencia url="https://es.wikipedia.org/wiki/Luanco"></referencia>
+            <referencia url="https://www.turismoasturias.es/descubre/costa/villas-marineras/marinera-cudillero"></referencia>
+        </referencias>
+        <recomendacion_ruta>10</recomendacion_ruta>
+        <hitos>
+            <hito numero = "1">
+                <nombre>Candas</nombre>
+                <descripcion>La villa marinera de Candás, capital del concejo de Carreño, despunta con importancia en plena Edad Media, teniendo ya entonces mucha vida marina y comercial.</descripcion>
+                <coordenadas>
+                    <latitud>43.590465</latitud>
+                    <longitud>-5.761752</longitud>
+                    <altitud medida="metros">0</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">0</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://es.wikipedia.org/wiki/Cand%C3%A1s_(Carre%C3%B1o)#/media/Archivo:Candaspuerto.jpg"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="2">
+                <nombre>Luanco</nombre>
+                <descripcion>Luanco es una parroquia y una villa, capital del concejo asturiano de Gozón, en España. 
+                    La parroquia cuenta con una población de 9.887 habitantes, de los que 5.242 corresponden a la villa.​ </descripcion>
+                <coordenadas>
+                    <latitud>43.615462</latitud>
+                    <longitud>-5.789012</longitud>
+                    <altitud medida="metros">0</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">5300</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://es.wikipedia.org/wiki/Luanco#/media/Archivo:Vista_de_la_iglesia_de_Santa_Maria_de_Luanco.jpg"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="3">
+                <nombre>Cudillero</nombre>
+                <descripcion>Cudillero​​ es un concejo, parroquia y localidad de la comunidad autónoma del Principado de Asturias, España. 
+                        Limita al oeste con Valdés, al sur con Salas y Pravia y al este con Muros del Nalón y Pravia de nuevo. </descripcion>
+                <coordenadas>
+                    <latitud>43.567528</latitud>
+                    <longitud>-6.148063</longitud>
+                    <altitud medida="metros">0</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">46900</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://es.wikipedia.org/wiki/Cudillero#/media/Archivo:Postal_de_Cudillero.jpg"></fotografia>
+                    <fotografia url="https://es.wikipedia.org/wiki/Cudillero#/media/Archivo:Cudillero_Asturias.jpg"></fotografia>
+                </fotografias>
+            </hito>
+        </hitos>
+    </ruta>
+
+    <ruta nombre = "Pueblos del centro asturiano.">
+        <tipo_ruta>Paisajística</tipo_ruta>
+        <medio_transporte>Mixto a pie y coche</medio_transporte>
+        <fecha_inicio>29/11/2019</fecha_inicio>
+        <hora_inicio>11:30:00</hora_inicio>
+        <tiempo_duracion>PT9H</tiempo_duracion>
+        <agencia_gestion>Sin agencia</agencia_gestion>
+        <descripcion>Ruta por algunos de los pueblos asturianos más bonitos, situados en el centro de la provincia.</descripcion>
+        <personas_adecuadas>Personas en buena forma física</personas_adecuadas>
+        <lugar_inicio_ruta>Cangas de Onís</lugar_inicio_ruta>
+        <direccion_inicio>Puente Romano</direccion_inicio>
+        <coordenadas_inicio>
+            <latitud>43.350669</latitud>
+            <longitud>-5.131971</longitud>
+            <altitud medida="metros">87</altitud>
+        </coordenadas_inicio>
+        <referencias>
+            <referencia url="https://es.wikipedia.org/wiki/Cangas_de_On%C3%ADs"></referencia>
+            <referencia url="http://www.lagoscovadonga.com/"></referencia>
+            <referencia url="http://www.cantabricoexperience.com/los-5-mejores-pueblos-del-interior-de-asturias/"></referencia>
+        </referencias>
+        <recomendacion_ruta>8</recomendacion_ruta>
+        <hitos>
+            <hito numero = "1">
+                <nombre>Cangas de Onís</nombre>
+                <descripcion>Este pueblecito se encuentra en la parte más oriental del Principado de Asturias, a menos de cuatro kilómetros del pueblo costero de Ribadesella, 
+                        que se encuentra hacia el norte de Cangas de Onís. 
+                        Nada más llegar al pueblo, lo primero que llama la atención es su precioso puente romano que lo preside.</descripcion>
+                <coordenadas>
+                    <latitud>43.314462</latitud>
+                    <longitud>-5.066583</longitud>
+                    <altitud medida="metros">87</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">0</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://es.wikipedia.org/wiki/Cangas_de_On%C3%ADs#/media/Archivo:Cangas_de_On%C3%ADs_-_Puente_romano_2.jpg"></fotografia>
+                    <fotografia url="https://es.wikipedia.org/wiki/Cangas_de_On%C3%ADs#/media/Archivo:Cangas_de_On%C3%ADs_05.jpg"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="2">
+                <nombre>Taramundi</nombre>
+                <descripcion>Este pequeño pueblo con encanto, se localiza en la parte más occidental de la provincia asturiana. 
+                        Está hecho de pizarra y ha sido recuperado hace 28 años. En sus paisajes de al alrededor, la naturaleza se desborda por su belleza. 
+                        Adentrándote en este pueblo, tendrás la sensación de haber dejado atrás la ciudad para sumergirte al cien por cien en la naturaleza.  </descripcion>
+                <coordenadas>
+                    <latitud>43.360394</latitud>
+                    <longitud>-7.10807</longitud>
+                    <altitud medida="metros">1033</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">218000</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://es.wikipedia.org/wiki/Taramundi#/media/Archivo:Town_of_Taramundi.JPG"></fotografia>
+                     <fotografia url="https://es.wikipedia.org/wiki/Taramundi#/media/Archivo:Taramundi4_Teixois_lou.jpg"></fotografia>
+                </fotografias>
+            </hito>
+            <hito numero ="3">
+                <nombre>Pola de Somiedo</nombre>
+                <descripcion>Esta particular villa asturiana, construida a partir de la parroquia de Somiedo, se encuentra en la parte del centro que se sitúa más al sur, de la provincia asturiana, limitando con la provincia de León. 
+                        Adentrándote en esta singular villa tendrás la sensación de adentrarte en uno de los entornos más rurales y naturales de Asturias, con tan solo 242 habitantes. </descripcion>
+                <coordenadas>
+                    <latitud>43.094201</latitud>
+                    <longitud>-6.256301</longitud>
+                    <altitud medida="metros">0</altitud>
+                </coordenadas>
+                <distancia_hito_anterior medida = "metros">169000</distancia_hito_anterior>
+                <fotografias>
+                    <fotografia url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Iglesia_de_San_Pedro_-_Pola_de_Somiedo.jpg"></fotografia>
+                </fotografias>
+            </hito>
+        </hitos>
+    </ruta>
+</rutas>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rutinas>
+  <rutina>
+    <tipo_rutina>especifica</tipo_rutina>
+    <grupo_muscular>Hombro</grupo_muscular>
+    <tiempo_calentamiento>15</tiempo_calentamiento>
+    <primer_ejercicio>Elevaciones laterales</primer_ejercicio>
+    <segundo_ejercicio>Elevaciones frontales</segundo_ejercicio>
+    <tercer_ejercicio>Press militar</tercer_ejercicio>
+    <tiempo_descanso>2</tiempo_descanso>
+    <duracion_rutina>3 dias</duracion_rutina>
+  </rutina>
+  <rutina>
+    <tipo_rutina>general</tipo_rutina>
+    <grupo_muscular>FullBody</grupo_muscular>
+    <tiempo_calentamiento>20</tiempo_calentamiento>
+    <primer_ejercicio>Press militar</primer_ejercicio>
+    <segundo_ejercicio>Press de pierna</segundo_ejercicio>
+    <tercer_ejercicio>Curl de Biceps</tercer_ejercicio>
+    <tiempo_descanso>1</tiempo_descanso>
+    <duracion_rutina>5 dias</duracion_rutina>
+  </rutina>
+  <rutina>
+    <tipo_rutina>general</tipo_rutina>
+    <grupo_muscular>FullBody</grupo_muscular>
+    <tiempo_calentamiento>12</tiempo_calentamiento>
+    <primer_ejercicio>1</primer_ejercicio>
+    <segundo_ejercicio>2</segundo_ejercicio>
+    <tercer_ejercicio>3</tercer_ejercicio>
+    <tiempo_descanso>10</tiempo_descanso>
+    <duracion_rutina>90</duracion_rutina>
+  </rutina>
+</rutinas>

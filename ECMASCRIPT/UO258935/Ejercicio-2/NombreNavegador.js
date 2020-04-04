@@ -1,0 +1,1 @@
+document.write("<h1>" + ObjInfoNavegador.nombre_navegador + "</h1>");

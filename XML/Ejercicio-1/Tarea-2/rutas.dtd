@@ -1,0 +1,49 @@
+<!ELEMENT rutas (ruta)+>
+<!ELEMENT ruta (tipo_ruta,medio_transporte,fecha_inicio?,
+                hora_inicio?,tiempo_duracion,agencia_gestion,descripcion,
+                personas_adecuadas,lugar_inicio_ruta,direccion_inicio,
+                coordenadas_inicio,referencias,recomendacion_ruta,hitos)>
+<!ATTLIST ruta
+  nombre CDATA #REQUIRED>
+
+<!ELEMENT tipo_ruta (#PCDATA)>
+<!ELEMENT medio_transporte (#PCDATA)>
+<!ELEMENT fecha_inicio (#PCDATA)>
+<!ELEMENT hora_inicio (#PCDATA)>
+<!ELEMENT tiempo_duracion (#PCDATA)>
+
+<!ELEMENT agencia_gestion (#PCDATA)>
+<!ELEMENT personas_adecuadas (#PCDATA)>
+<!ELEMENT lugar_inicio_ruta (#PCDATA)>
+<!ELEMENT direccion_inicio (#PCDATA)>
+<!ELEMENT coordenadas_inicio (latitud,longitud,altitud)>
+<!ELEMENT referencias (referencia)+>
+<!ELEMENT recomendacion_ruta (#PCDATA)>
+<!ELEMENT hitos (hito)+>
+<!ELEMENT referencia (#PCDATA)>
+<!ATTLIST referencia
+  url CDATA #REQUIRED>
+
+<!ELEMENT hito (nombre,descripcion,coordenadas,distancia_hito_anterior,
+                fotografias+)>
+<!ATTLIST hito
+  numero CDATA #REQUIRED>
+  
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT coordenadas (latitud,longitud,altitud)>
+<!ELEMENT distancia_hito_anterior (#PCDATA)>
+<!ATTLIST distancia_hito_anterior
+  medida NMTOKEN #REQUIRED>
+
+<!ELEMENT fotografias (fotografia+)>
+<!ELEMENT fotografia (#PCDATA)>
+<!ATTLIST fotografia
+  url CDATA #REQUIRED>
+  
+
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT altitud (#PCDATA)>
+<!ATTLIST altitud
+  medida NMTOKEN #REQUIRED>

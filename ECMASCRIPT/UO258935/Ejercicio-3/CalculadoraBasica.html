@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Marcos Matilla" />
+    <meta name="description" content="Caculadora básica con java script" />
+    <link rel="stylesheet" href="CalculadoraBasica.css" />
+    <Title>Ejercicio 3</Title>
+    <script src="CalculadoraBasica.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Calculadora básica</h1>
+    </header>
+    <main>
+
+
+        <section class="calculadora">
+            <h2>Resultado</h2>
+
+            <p>
+                <input type="text" name="display" id="display" readonly>
+            </p>
+
+            <p>
+                <input type="button" value="MRC" onclick="calculadora.memoriaRC()">
+                <input type="button" value="M-" onclick="calculadora.memoriaMenos()">
+                <input type="button" value="M+" onclick="calculadora.memoriaMas()">
+                <input type="button" value="/" onclick="calculadora.addDisplay('/')">
+
+            </p>
+            <p>
+
+                <input type="button" value="7" onclick="calculadora.addDisplay('7')" class="caracter">
+                <input type="button" value="8" onclick="calculadora.addDisplay('8')" class="caracter">
+                <input type="button" value="9" onclick="calculadora.addDisplay('9')" class="caracter">
+                <input type="button" value="*" onclick="calculadora.addDisplay('*')">
+            </p>
+            <p>
+
+                <input type="button" value="4" onclick="calculadora.addDisplay('4')" class="digito">
+                <input type="button" value="5" onclick="calculadora.addDisplay('5')" class="digito">
+                <input type="button" value="6" onclick="calculadora.addDisplay('6')" class="digito">
+                <input type="button" value="-" onclick="calculadora.addDisplay('-')">
+            </p>
+            <p>
+
+                <input type="button" value="1" onclick="calculadora.addDisplay('1')" class="digito">
+                <input type="button" value="2" onclick="calculadora.addDisplay('2')" class="digito">
+                <input type="button" value="3" onclick="calculadora.addDisplay('3')" class="digito">
+                <input type="button" value="+" onclick="calculadora.addDisplay('+')">
+            </p>
+            <p>
+
+                <input type="button" value="0" onclick="calculadora.addDisplay('0')" class="digito">
+                <input type="button" value="." onclick="calculadora.addDisplay('.')" class="digito">
+                <input type="button" value="C" onclick="calculadora.clearDisplay()">
+                <input type="button" value="=" onclick="calculadora.igual()">
+            </p>
+
+        </section>
+    </main>
+    <footer>
+        <a href="https://validator.w3.org/check?uri=referer">
+            <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" alt=" HTML5 Válido!" height="64" width="63" /></a>
+        <a href=" http://jigsaw.w3.org/css-validator/check/referer ">
+            <img src=" http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" height="31" width="88" /></a>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="rutas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="ruta">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tipo_ruta" type="xs:string" />
+              <xs:element name="medio_transporte" type="xs:string" />
+              <xs:element name="fecha_inicio" type="xs:string" />
+              <xs:element name="hora_inicio" type="xs:string" />
+              <xs:element name="tiempo_duracion" type="xs:duration" />
+              <xs:element name="agencia_gestion" type="xs:string" />
+              <xs:element name="descripcion" type="xs:string" />
+              <xs:element name="personas_adecuadas" type="xs:string" />
+              <xs:element name="lugar_inicio_ruta" type="xs:string" />
+              <xs:element name="direccion_inicio" type="xs:string" />
+              <xs:element name="coordenadas_inicio">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="latitud" type="xs:decimal" />
+                    <xs:element name="longitud" type="xs:decimal" />
+                    <xs:element name="altitud">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:unsignedByte">
+                            <xs:attribute name="medida" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="referencias">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="referencia">
+                      <xs:complexType>
+                        <xs:attribute name="url" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="recomendacion_ruta" type="xs:unsignedByte" />
+              <xs:element name="hitos">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="hito">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="nombre" type="xs:string" />
+                          <xs:element name="descripcion" type="xs:string" />
+                          <xs:element name="coordenadas">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="latitud" type="xs:decimal" />
+                                <xs:element name="longitud" type="xs:decimal" />
+                                <xs:element name="altitud">
+                                  <xs:complexType>
+                                    <xs:simpleContent>
+                                      <xs:extension base="xs:unsignedShort">
+                                        <xs:attribute name="medida" type="xs:string" use="required" />
+                                      </xs:extension>
+                                    </xs:simpleContent>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="distancia_hito_anterior">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:unsignedInt">
+                                  <xs:attribute name="medida" type="xs:string" use="required" />
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="fotografias">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element maxOccurs="unbounded" name="fotografia">
+                                  <xs:complexType>
+                                    <xs:attribute name="url" type="xs:string" use="required" />
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="numero" type="xs:unsignedByte" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="nombre" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

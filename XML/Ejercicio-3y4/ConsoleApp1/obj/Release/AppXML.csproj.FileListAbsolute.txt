@@ -1,0 +1,14 @@
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\obj\Release\AppXML.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Users\Marcos\Desktop\INFORMATICA\TERCERO\Software Estandares Web\Práctica\XML\Ejercicio3y4\ConsoleApp1\ConsoleApp1\obj\Release\AppXML.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Marcos\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Marcos\Desktop\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Marcos\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\AppXML.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\AppXML.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Marcos\Desktop\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
